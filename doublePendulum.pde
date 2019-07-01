@@ -1,5 +1,5 @@
 /*
-This simple program simulates the double pendulum and its chaotic nature in processing(java). Even if you change the angle by 
+This simple program simulates the double pendulum and its chaotic nature in Processing(java). Even if you change the angle by 
 a small value the results will be entirely different.
 All thanks to Daniel Shiffman and his awesome tutorials.
 Link to his video:https://www.youtube.com/watch?v=uWzPe_S-RVE&t=865s
