@@ -27,7 +27,7 @@ int binary_to_decimal(vector<int>);
 
 int main()
 {
-	int num1,num2,decimal_sum,decimal_diff;
+	int num1,num2,decimal_sum;
 	vector<int> bin_vec1,bin_vec2,result_binary_sum,result_binary_diff;
 	cout<<"Enter two numbers"<<endl;
 	cin>>num1>>num2;
