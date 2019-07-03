@@ -2,8 +2,7 @@
 This simple program demonstrates 8-bit binary addition in C++
 It takes two inputs in decimals, converts them to binary, adds
 them using full bit adder logic and displays the result in both
-binary and decimal.
- © Ishwori Khanal 2019  
+binary and decimal. 
 */
 
 
