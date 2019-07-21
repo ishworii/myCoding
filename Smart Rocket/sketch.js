@@ -1,3 +1,9 @@
+/*
+This program demonstrates genetic algorithm in its simplest form.
+The rockets find their path using genetic algorithm.
+Inspiration from Coding Train(Daniel Shiffman)
+*/
+
 var rocket;
 var population;
 var lifeSpan = 350;
