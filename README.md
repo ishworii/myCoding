@@ -1,2 +1,1 @@
-My repository is pretty messed up.
-Work in progress.
+I am gonna upload everything I work on here. Let's see where this leads.
